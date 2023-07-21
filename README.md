@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I am studying computer engineering at Dokuz Eylül University and I am 2th grade.<br>💻 I am a frontend ( trying to be fullstack ) developer with 2 years of self experience.<br>🎮 I also developed mobile games with unity.<br><br>
+👨‍🎓 I am studying computer engineering at Dokuz Eylül University and I am 3th grade.<br>💻 I am a frontend ( trying to be fullstack ) developer with 2 years of self experience.<br>🎮 I also developed mobile games with unity.<br><br>
 
 
 ## 🌐 Socials:
