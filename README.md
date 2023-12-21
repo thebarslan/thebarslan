@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I am studying computer engineering at Dokuz Eylül University and I am 3th grade.<br>💻 I am a unity game developer with 3 years of self experience.<br>🎮 I developed mobile games with unity.<br><br>
+👨‍🎓 I am studying computer engineering at Dokuz Eylül University and I am 3th grade.<br>💻 I have experience with javascript, react.js and node.js<br>🎮 I am also developing games with unity.<br><br>
 
 
 ## 🌐 Socials:
