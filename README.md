@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I am studying computer engineering at Dokuz Eylül University and I am 3th grade.<br>💻 I have experience with javascript, react.js and node.js<br>🎮 I am also developing games with unity.<br><br>
+💻 I am a fullstack developer experience withd javascript, react.js and node.js<br><br>
 
 
 ## 🌐 Socials:
