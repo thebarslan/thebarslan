@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a fullstack developer experienced with Javascript, React.js, React Native, Node.js, Next.js, and MongoDB, PostqreSQL<br><br>
+💻 I am a fullstack developer experienced with Go, Javascript, React.js, React Native, Node.js, Next.js, PostqreSQL and MongoDB <br><br>
 
 
 ## 🌐 Socials:
